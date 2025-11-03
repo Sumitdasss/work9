@@ -37,6 +37,7 @@ li{
 font-weight: 400;
 text-transform: uppercase;
 color: black;
+font-size: 14px;
 }
 .button a{
     padding: 10px  20px;
@@ -47,5 +48,14 @@ color: white;
 }
 .button i{
     margin-left: 7px;
+}
+.menu a:hover{
+    color:tomato;
+    transition: .4s;
+}
+.button a:hover{
+    color: tomato;
+    transition: .4s;
+    
 }
 
