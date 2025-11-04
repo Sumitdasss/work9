@@ -17,6 +17,13 @@ li{
     width: 1210px;
     margin: 0 auto;
 }
+h1,h2,h3,h4,h5,h6,p{
+    padding: 0;
+    margin: 0;
+    line-height: 0.8;
+
+    
+}
 #haderPart{
     background-color:#F9F9FC;
     padding: 10px;
@@ -55,11 +62,77 @@ color: white;
 }
 .button a:hover{
     color: tomato;
-    transition: .4s;
+    transition: .4s;} 
+  
+#BannerPart{
+    background-color:#F9F9FC;
+    padding: 10px;;
+    padding-top: 15px;
+padding-bottom: 60px;}
+.BannerFlex{
+    display: flex;
+    justify-content: space-between;
     
 }
-#bannerPart{
-    background-color: teal;
-    padding: 10px;
+.BannerLeft{
+   width: 50%; 
+ 
+}
+.BannerRight{
+    width: 50%;
+}
+.BannerRight img{
+    width: 100%; 
+}
+.BannerLeft h4{
+    font-size: 16px;
+    color:#5E3BEE;
+    text-transform: uppercase;
+      font-weight: 500;
+      padding-top: 115px;
+      padding-bottom: 50px;
+}
+.BannerLeft h1{
+    font-size: 60px;
+    color:#333333;
+    text-transform: uppercase;
+      font-weight: 700;
+      line-height: 78px;
+      padding-bottom: 30px;
+}
+.button i{
+    margin-left: 0;
+    margin-right: 10px!important;
+}
+.bannerBtn a:hover{
+    background: transparent;
+        transition: .4s;
+    
+}
+#CounterPart{
+    background-color: #F9F9FC;
+    padding:90px 0px ;
+}
+.CounterFlex{
+    display: flex;
+    justify-content: space-between;
+}
+.CounterItem{
+    width: 25%;
+ 
+    padding: 25px;
+    text-align: center;
+   text-transform: uppercase;
+}
+.CounterItem h3{
+    font-size: 48px;
+    font-weight: 600;
+    color: #000000;
+    padding-bottom: 10px;
+}
+.CounterItem h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(18, 18, 18, 0.7);
 }
 
