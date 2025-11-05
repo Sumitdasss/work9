@@ -170,7 +170,7 @@ padding-bottom: 60px;}
     text-align: center;
  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05),
             0 6px 15px rgba(0, 0, 0, 0.03);
-
+transition: all linear.4s;
 
 
 }
@@ -183,6 +183,7 @@ padding-bottom: 60px;}
         text-align: center;
         box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05),
             0 6px 15px rgba(0, 0, 0, 0.03);
+            transition: all linear.4s;
 
         
 }
@@ -195,7 +196,7 @@ padding-bottom: 60px;}
         text-align: center;
  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05),
             0 6px 15px rgba(0, 0, 0, 0.03);
-
+transition: all linear.4s;
     
 }
 .discriptionFlex{
@@ -249,4 +250,13 @@ padding-bottom: 60px;}
         color: hsl(0, 0%, 7%) ;
         padding-top: 31px;
         line-height: 23px;
+    }
+    .div1:hover{
+transform: scale(1.1);
+    }
+ .div2:hover{
+transform: scale(1.1);
+    }
+ .div3:hover{
+transform: scale(1.1);
     }
