@@ -1,3 +1,7 @@
+
+
+/* All  common css start */
+
 *{
     padding: 0;
     margin: 0;
@@ -24,6 +28,8 @@ h1,h2,h3,h4,h5,h6,p{
 
     
 }
+/* All  common css end */
+/* Haderpart start */
 #haderPart{
     background-color:#F9F9FC;
     padding: 10px;
@@ -63,7 +69,8 @@ color: white;
 .button a:hover{
     color: tomato;
     transition: .4s;} 
-  
+    /* Haderpart end */
+  /* Bannerpart start */
 #BannerPart{
     background-color:#F9F9FC;
     padding: 10px;;
@@ -109,6 +116,8 @@ padding-bottom: 60px;}
         transition: .4s;
     
 }
+  /* Bannerpart end*/
+    /* counterpart start */
 #CounterPart{
     background-color: #F9F9FC;
     padding:90px 0px ;
@@ -135,6 +144,8 @@ padding-bottom: 60px;}
     font-weight: 500;
     color: rgba(18, 18, 18, 0.7);
 }
+  /* counterpart  end */
+    /* discriptionpart start */
 .discription1{
     text-align: center;
 }
@@ -260,3 +271,4 @@ transform: scale(1.1);
  .div3:hover{
 transform: scale(1.1);
     }
+        /* discriptionpart end */
