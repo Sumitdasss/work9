@@ -272,3 +272,74 @@ transform: scale(1.1);
 transform: scale(1.1);
     }
         /* discriptionpart end */
+        .divone h4{
+          font-size: 16px;
+          padding-top: 115px;
+    font-weight: 500;
+    color: #5E3BEE;   
+        }
+          .divone h3{
+            font-size: 60px;
+            padding-top: 56px;
+            font-weight: 700;
+            color: #333333;
+            line-height: 80px;
+            
+            
+          }
+          .container{
+            color:#F9F9FC ;
+          }
+          .buttonbannerBtn a{
+            
+             padding: 10px  20px;
+    background: #5E3BEE;
+border-radius: 50px;
+color: white;
+
+
+          }
+.divone h5{
+    font-size: 16px;
+    font-weight: 400;
+line-height: 21px;
+    padding-top: 38px;
+    color: rgba(18, 18, 18, 0.70);
+}
+
+    
+
+.buttonbannerBtn{
+    padding-top:44px ;
+}
+.box{
+    width: 1439px;
+    height: 778px;
+    background-color: #F9F9FC;
+    margin: 0 auto;
+    margin-top: 140px;
+    
+    
+    
+}
+.justify{
+    justify-content: space-between;
+}
+.buttonbannerBtn i{
+    margin-right: 10px;
+}
+.Mask1{
+
+    
+    
+ 
+  
+
+
+    
+}
+.box1{
+    display: flex;
+
+
+}
