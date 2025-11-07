@@ -464,7 +464,7 @@ line-height: 21px;
     width: 583px;
     height: 389px;
     background-color: #c4c4c4;
-       border-radius: 20px;
+      border-radius: 20px; 
          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
             0 6px 15px rgba(0, 0, 0, 0.05);
 
@@ -533,8 +533,132 @@ line-height: 21px;
     padding-top: 23px;
     padding-left: 48px;
 }
+.main1{
+    width: 1440px;
+    height: 738px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 132px;
+}
+.main2{
+    height: 469px;
+    width: 1440px;
+    background-color:#F9F9FC ;
+    
+}
+.main3 h4{
+     font-size: 16px;
+          padding-top: 153px;
+    font-weight: 500;
+    color: #5E3BEE;   
+}
+.main3 h2{
+      font-size: 44px;
+          padding-top: 34px;
+    font-weight: 600;
+    color:#000000;   
+}
+.main3 h5{
+   font-size: 16px;
+    font-weight: 400;
+    color: rgba(18, 18, 18, 0.70);  
+    padding-top: 39px;
+    line-height: 20px;
+}
+.main3{
+    text-align: center;
+}
 
+.main4{
+    height: 369px;
+    width: 584px;
+    background-color: white;
+     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15),
+            0 6px 15px rgba(0, 0, 0, 0.09);
+            margin-top: 61px;
+            border-radius: 20px;
+}
 
+.main5{
+    height: 369px;
+    width: 584px;
+    background-color: white;
+     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15),
+            0 6px 15px rgba(0, 0, 0, 0.09);
+               margin-top: 61px;
+               border-radius: 20px;
+}
+.mainFlex{
+    display: flex;
 
+    column-gap: 41px;
+}
+.main4 img{
+    padding-top: 44px;
+    padding-left: 40px;
+}
+.main5 img{
+    padding-top: 44px;
+    padding-left: 40px;
+}
+.main4 h4{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+      padding-left: 40px; 
+        padding-top: 40px;
+        line-height:22.5px;
+}
+.main6 img{
+    margin-top: -100px;
+    position: absolute;
+   
+}
+ .main4 h3{
+     font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+    padding-left: 123px;
+    padding-top: 72px;
+ }
+ .main4 h5{
+     font-size: 16px;
+    font-weight: 400;
+    color: rgba(18, 18, 18, 0.70);
+      padding-left: 123px;  
+      padding-top: 16px;
+ }
+.main7 img{
+    margin-top: -90px;
+    margin-left: 450px;position: absolute;
+}
+.main5 h4{ font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+      padding-left: 40px; 
+        padding-top: 40px;
+        line-height:22.5px;}
+        .main5 h3{
+              font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+    padding-left: 123px;
+    padding-top: 72px;
 
+        }
+        .main5 h5{
+              font-size: 16px;
+    font-weight: 400;
+    color: rgba(18, 18, 18, 0.70);
+      padding-left: 123px;  
+      padding-top: 16px;
+        }
+        .main9 img{
+ margin-top: -100px;
+    position: absolute;
+        }
+        .main10 img{
+          margin-top: -90px;
+    margin-left: 450px;position: absolute;   
+        }
 
