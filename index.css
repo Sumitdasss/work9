@@ -661,4 +661,128 @@ line-height: 21px;
           margin-top: -90px;
     margin-left: 450px;position: absolute;   
         }
+        .five1{
+            width: 1210px;
+background-color:#F9F9FC;
+            height: 471px;
+            border-radius: 20px;
+             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15),
+            0 6px 15px rgba(0, 0, 0, 0.09);
+        }
+        .five1 h3{
+font-size: 50px;
+font-weight: 600;
+color:#333333;
+padding-top: 128px;
+line-height: 60px;
 
+
+        }
+.five1{
+    text-align: center;
+    margin-top: 135px;
+}
+
+    .button{
+        margin-top: 40px;
+
+    }    
+    .five2 img{
+        position: absolute;
+        margin-top: -125px;
+        margin-left: 263px;
+
+    }
+  .six1{
+    height: 489px;
+    width: 1210px;
+    background-color: #333333;
+    border-radius: 20px;
+    margin-top: 132px;
+  }
+.six2 img{
+padding-top: 120px;
+padding-left: 150px;
+}
+.six2 h5{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 41px;
+    line-height: 22px;
+    color:#FFFFFF;
+    padding-left: 150px;
+
+
+}
+
+.sixFlex{
+
+    display: flex;
+    column-gap: 395px;
+}
+.six3 i{
+    margin-right: 18px;
+    margin-top: 130px;
+}
+.six3 a{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+.six3 h4{
+   color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;  
+}
+.sik3 i{
+    margin-right: 18px;
+}
+.six3 img{
+    margin-right: 13px;
+    margin-top: 15px;
+}
+.sixFlex1{
+    display: flex;
+    
+    margin-top: 25px;
+}
+.underLine img{
+    margin-left: 151px;
+    margin-top: 80px;
+}
+
+.sixFlex2{
+    display: flex;
+}
+.six8{
+   
+    margin-left: 55px;
+    margin-top: 45px;
+    padding: 0px 20px ;
+}
+.six8 a{
+    font-size: 14px;
+    font-weight: 400;
+    color:#FFFFFF ;
+    
+}
+ol,ul{
+    list-style-type: none;
+}
+
+.six8 a{
+    padding-left: 80px;
+}
+.six9 h5{
+    font-size: 16px;
+    font-weight: 400;
+    color:#FFFFFF;
+    padding-top: 55px;
+    padding-left: 295px;
+    line-height: 15px;
+
+}
+.six8 a:hover{
+    color: tomato;
+    transition: 0.4s; 
+}
