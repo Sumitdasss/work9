@@ -52,8 +52,14 @@ text-transform: uppercase;
 color: black;
 font-size: 14px;
 }
+.button{
+    
+    
+    
+}
+
 .button a{
-    padding: 10px  20px;
+    padding: 10px  20px!important;
     background: #5E3BEE;
 border-radius: 50px;
 color: white;
@@ -328,13 +334,68 @@ line-height: 21px;
 .buttonbannerBtn i{
     margin-right: 10px;
 }
+.button22 a{
+      padding: 10px  20px!important;
+    background: #5E3BEE;
+border-radius: 50px;
+color: white;
+}
+.button22 a:hover{
+    color: tomato;
+    transition: .4s;
+}
+.button22 i{
+    margin-right: 10px;
+}
+
+.button33 a{
+     padding: 10px  20px!important;
+    background: #5E3BEE;
+border-radius: 50px;
+color: white;
 
 
-    
-    
+}
+.button11 a:hover{
+    color: tomato;
+    transition: .4s;
+}.button44 a:hover{
+    color: tomato;
+    transition: .4s;
+}
+.button33 a:hover{
+    color: tomato;
+    transition: .4s;
+
+}
+
+.button44 a{
+     padding: 10px  20px!important;
+    background: #5E3BEE;
+border-radius: 50px;
+color: white;
+}
+.button33 i{
+    margin-right: 10px;
+}
+    .button33{
+        margin-top: 45px;
+    }
+    .button11 a{
+          padding: 10px  20px!important;
+    background: #5E3BEE;
+border-radius: 50px;
+color: white;
+
+    }
  
-  
-
+  .button11{
+    margin-top: 43px;
+    margin-left: 2px;
+  }
+.button11 i{
+    margin-right: 10px;
+}
 
     
 
@@ -785,4 +846,5 @@ ol,ul{
 .six8 a:hover{
     color: tomato;
     transition: 0.4s; 
+    
 }
